@@ -1,47 +1,95 @@
-<mxfile host="app.diagrams.net" modified="2021-11-04T07:41:04.846Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36 Edg/94.0.992.38" etag="Ch73G3XVm1tcqCAdCJUi" version="15.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-05T07:42:59.492Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36 Edg/94.0.992.38" etag="lSio99Tn-sQ7Cbykkr86" version="15.6.8" type="github">
   <diagram id="lENlxFUdmtpFTnq6Koua" name="Page-1">
-    <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="1122" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7EmApU87TOrAMEqmBo_j-1" value="pc" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="350" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="7EmApU87TOrAMEqmBo_j-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7EmApU87TOrAMEqmBo_j-2" target="7EmApU87TOrAMEqmBo_j-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7EmApU87TOrAMEqmBo_j-2" value="xxx_test_callback" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="470" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="7EmApU87TOrAMEqmBo_j-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7EmApU87TOrAMEqmBo_j-1" target="7EmApU87TOrAMEqmBo_j-2">
+        <mxCell id="7EmApU87TOrAMEqmBo_j-15" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="600" as="sourcePoint" />
-            <mxPoint x="440" y="550" as="targetPoint" />
+            <mxPoint x="77" y="1064" as="sourcePoint" />
+            <mxPoint x="600" y="1071" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7EmApU87TOrAMEqmBo_j-4" value="cmd" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="170" y="430" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="7EmApU87TOrAMEqmBo_j-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7EmApU87TOrAMEqmBo_j-5" target="7EmApU87TOrAMEqmBo_j-8">
+        <mxCell id="7EmApU87TOrAMEqmBo_j-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;" edge="1" parent="1" source="7EmApU87TOrAMEqmBo_j-16" target="7EmApU87TOrAMEqmBo_j-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7EmApU87TOrAMEqmBo_j-5" value="app mailbox" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="470" width="120" height="60" as="geometry" />
+        <mxCell id="7EmApU87TOrAMEqmBo_j-16" value="cfg_hw_gpio_key_cfg[]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="63" y="621" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7EmApU87TOrAMEqmBo_j-7" value="send_event_to_mailbox" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="230" y="470" width="140" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="7EmApU87TOrAMEqmBo_j-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7EmApU87TOrAMEqmBo_j-8" target="7EmApU87TOrAMEqmBo_j-11">
+        <mxCell id="7EmApU87TOrAMEqmBo_j-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="7EmApU87TOrAMEqmBo_j-21" target="7EmApU87TOrAMEqmBo_j-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7EmApU87TOrAMEqmBo_j-8" value="xxx_test_cmd_process" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="590" width="140" height="60" as="geometry" />
+        <mxCell id="7EmApU87TOrAMEqmBo_j-21" value="hal_gpiokey_enable_allint" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="56" y="510" width="154" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7EmApU87TOrAMEqmBo_j-10" value="register event callback" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="440" y="550" width="130" height="20" as="geometry" />
+        <mxCell id="7EmApU87TOrAMEqmBo_j-23" value="&lt;font color=&quot;#000000&quot;&gt;key对应的IO配置&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="82.5" y="690" width="101" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="7EmApU87TOrAMEqmBo_j-11" value="i2cwrite&amp;amp;read or spi write&amp;amp;read" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="590" width="120" height="60" as="geometry" />
+        <mxCell id="7EmApU87TOrAMEqmBo_j-24" value="为每一个IO注册IO中断" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="67.5" y="485" width="131" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="7EmApU87TOrAMEqmBo_j-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="7EmApU87TOrAMEqmBo_j-25" target="7EmApU87TOrAMEqmBo_j-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7EmApU87TOrAMEqmBo_j-25" value="hal_gpiokey_irqhandler" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="269" y="510" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7EmApU87TOrAMEqmBo_j-27" value="IO口的中断处理函数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="282" y="485" width="119" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="7EmApU87TOrAMEqmBo_j-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="7EmApU87TOrAMEqmBo_j-28" target="7EmApU87TOrAMEqmBo_j-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7EmApU87TOrAMEqmBo_j-28" value="hal_key_debounce_handler" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="492" y="510" width="166" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7EmApU87TOrAMEqmBo_j-30" value="int flag" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="431" y="515" width="45" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="7EmApU87TOrAMEqmBo_j-31" value="硬件定时器定时循环监测int flag" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="486.5" y="485" width="177" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="7EmApU87TOrAMEqmBo_j-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="7EmApU87TOrAMEqmBo_j-32" target="7EmApU87TOrAMEqmBo_j-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7EmApU87TOrAMEqmBo_j-32" value="send_key_event" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="388" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7EmApU87TOrAMEqmBo_j-34" value="根据int flag并做相应处理，随后将事件发送给mailbox" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="419" y="363" width="291" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="7EmApU87TOrAMEqmBo_j-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="7EmApU87TOrAMEqmBo_j-35" target="7EmApU87TOrAMEqmBo_j-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7EmApU87TOrAMEqmBo_j-35" value="mailbox" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="274" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7EmApU87TOrAMEqmBo_j-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="7EmApU87TOrAMEqmBo_j-37" target="7EmApU87TOrAMEqmBo_j-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7EmApU87TOrAMEqmBo_j-37" value="app_key_handle_process" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="279" y="274" width="156" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7EmApU87TOrAMEqmBo_j-39" value="转发给key的处理函数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="512.5" y="248" width="125" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="7EmApU87TOrAMEqmBo_j-40" value="转发给调用app_key_handle_registration&lt;br&gt;接口注册的回调函数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="245" y="241" width="224" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="7EmApU87TOrAMEqmBo_j-41" value="xxx_key_process" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="73" y="274" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7EmApU87TOrAMEqmBo_j-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="7EmApU87TOrAMEqmBo_j-43" target="7EmApU87TOrAMEqmBo_j-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7EmApU87TOrAMEqmBo_j-43" value="button" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#001DBC;fillColor=#0050ef;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="299.25" y="621" width="84.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7EmApU87TOrAMEqmBo_j-47" value="press" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="345" y="584.5" width="39" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="7EmApU87TOrAMEqmBo_j-48" value="do something" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="92" y="248" width="82" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
