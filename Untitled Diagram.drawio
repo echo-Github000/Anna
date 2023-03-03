@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-03T03:24:08.299Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="y5AAkP2YevWoukdfpyhl" version="20.8.23" type="github" pages="22">
+<mxfile host="app.diagrams.net" modified="2023-03-03T07:43:15.272Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="TriEgjOCWUclm_5bJOgu" version="20.8.23" type="github" pages="23">
   <diagram id="TRyFhkgRfwEaA6Wdbu_H" name="Page-1">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3788,6 +3788,17 @@
         </mxCell>
         <mxCell id="ASZrZ9p34R2lZ2MPUAZv-24" value="MQTT/HTTP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="210" y="435" width="100" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="40GIjvF7MsZ5nDQ0IVqj" name="第 23 页">
+    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IpKxa5xYfksH-u5ehAzR-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://img-blog.csdnimg.cn/img_convert/d6f39f32db9a377cb3a30414438775fb.png;" vertex="1" parent="1">
+          <mxGeometry x="180" y="180" width="520" height="436" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
