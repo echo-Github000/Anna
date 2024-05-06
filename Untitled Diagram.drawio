@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-06T08:05:19.509Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="UFy6LTXHoGI3Ck3odzo3" version="23.1.1" type="github" pages="24">
+<mxfile host="app.diagrams.net" modified="2024-05-06T08:05:39.271Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="fES74JdKeDR6CBg78WZ8" version="23.1.1" type="github" pages="24">
   <diagram id="TRyFhkgRfwEaA6Wdbu_H" name="Page-1">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4246,11 +4246,17 @@
         <mxCell id="WVDohqZOyOLZAEjRMD4f-36" value="等待倒计时结束，进入预览页面" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="506" y="689" width="176" height="36" as="geometry" />
         </mxCell>
+        <mxCell id="WVDohqZOyOLZAEjRMD4f-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WVDohqZOyOLZAEjRMD4f-38" target="WVDohqZOyOLZAEjRMD4f-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WVDohqZOyOLZAEjRMD4f-38" value="关机页面" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="215" y="733" width="93" height="36" as="geometry" />
         </mxCell>
         <mxCell id="WVDohqZOyOLZAEjRMD4f-41" value="关机键长按3秒关机" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="393" y="733" width="116" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="WVDohqZOyOLZAEjRMD4f-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WVDohqZOyOLZAEjRMD4f-42" target="WVDohqZOyOLZAEjRMD4f-43">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WVDohqZOyOLZAEjRMD4f-42" value="升级页面" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="215" y="794" width="93" height="36" as="geometry" />
